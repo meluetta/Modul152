@@ -37,9 +37,14 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Multimedia Formate': [
-			{ text: 'Video', link: 'Modul152/multimedia/video' },
-			{ text: 'Bild', link: 'Modul152/multimedia/bild' },
-			{ text: 'Audio', link: 'Modul152/multimedia/audio' },
+			{ text: 'Video', link: 'Modul152/formate/video' },
+			{ text: 'Bild', link: 'Modul152/formate/bild' },
+			{ text: 'Audio', link: 'Modul152/formate/audio' },
+		],
+		'Multimedia Software': [
+			{ text: 'Video', link: 'Modul152/tools/video' },
+			{ text: 'Bild', link: 'Modul152/tools/bild' },
+			{ text: 'Audio', link: 'Modul152/tools/audio' },
 		],
 	},
 };
