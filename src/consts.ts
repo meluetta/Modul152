@@ -21,7 +21,7 @@ export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
 export const GITHUB_EDIT_URL = `https://github.com/meluetta/Modul152/tree/main`;
 
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
+export const COMMUNITY_INVITE_URL = undefined;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
