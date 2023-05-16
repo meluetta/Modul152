@@ -3,8 +3,6 @@ title: "Bild"
 description: "Auf dieser Seite finden Sie die besten Bildformate!"
 ---
 
-# Bildformate
-
 ## JPEG
 **Joint Photographic Experts Group** <br/>
 Geeignet für Fotos und komplexe Bilder mit vielen Farbverläufen.
