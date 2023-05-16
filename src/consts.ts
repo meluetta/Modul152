@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'Documentation',
+	title: 'Multimedia Team 4',
 	description: 'Your website description.',
 	defaultLanguage: 'en-us',
 } as const;
