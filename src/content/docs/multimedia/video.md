@@ -6,43 +6,43 @@ Es gibt unzählige Dateiformate und gefühlt 1.000 Videoformate. Wenn man ein Vi
 
 Wichtig bei der Wahl eines Videoformats sind auf die Merkmale ihres Videos und dessen Codecs zu achten.
 
-Wichtige Merkmale bei einem Video: 
+## Wichtige Merkmale bei einem Video
 Auflösung, Bildrate und Farbinformationen.
 
-Was ist ein Codec?
+## Was ist ein Codec?
 Ein Codec komprimiert Videos und verwandelt sie in eine für den Computer lesbare Datei.
 Die meisten können Videoformate mit vielen unterschiedlichen Merkmalen komprimieren.
 
-Auflösung:
+## Auflösung
 die meistgenutzte Auflösung sind 1920 x 1080 oder 3840 x 2160(4k)
 Eine höhere Auflösung bedeutet mehr Details und Farbinformationen aufgrund der vielen Pixel.
 
-Farbsampling: 
+## Farbsampling 
 wird als Zahl ausgedrückt, zum Beispiel: 4:2:2
 Ist die Menge der Farbinformationen pro Pixel.
 
-Bildrate:
+## Bildrate
 Anzahl der pro Sekunde aufgenommenen Bilder.
 50fps 60fps erscheinen live wie nachrichten oder sport
 24 fps oder 25fps wirkt fiktiv. 
 durchschnittliche etwa 30fps
-Bitrate:
+## Bitrate
 menge der pro sekunde verarbeiteten Informationen.
 höhere bitrate = ermöglichen höhere Auflösung und bessere Farben. 
 Faktor Bitrate ist entscheidend für die Dateigrösse.
 
-
-Bit-Tiefe:
+## Bit-Tiefe
 beschreibt anzahl farbtöne die das format unterstüzt.
 gewöhnliche videos haben in der regel 8-bit.
 
-HDR(High Dynamic Range):
+## HDR(High Dynamic Range)
 relativ neue Technik, durch diese Technick sowohl sehr dunkle als auch sehr helle details ihres Bildes gleichzeitig sichtbar.
 
-Audiospur: 
+## Audiospur 
 meisten Kameras zeichnen eine Audiospur von 48kHz auf.
 die gängigsten Codecs sind: H.264, MP4, AVCHD.
 
+## Was ist nun am besten?
 Hat man das Ziel möglichst alle Browser und auch Betriebssysteme abzudecken ist hier wohl das Format MP4 am besten geeignet. Genauer gesagt der Codec H.264. 
 Er gilt in der Internet- und Medienwelt bereits als Industriestandard und wird von fast alles Browsern, Betriebssystemen und Playern unterstützt.
 
@@ -52,7 +52,8 @@ Die Rede ist von neuen Dateiformaten, wie dem von Google entwickeltem WebM Forma
 Das ist ein Containerformat für Video oder Audio, welches mit den Codecs VP8 und VP9 eingesetzt werden.
 Der Vorteil von diesem Format ist die hohe Kompression und die trotzdem gut erhaltene Videoqualität, was es für das Web zum prädestinierten Format macht.
 
-Videoformate im Vergleich: Eine Tabelle zur Übersicht
+## Videoformate im Vergleich
+Eine Tabelle zur Übersicht:
 | Videoformat | Entwickler                   | Erscheinungsjahr | Einsatzgebiete                                                 | Containerformat |
 |-------------|------------------------------|------------------|----------------------------------------------------------------|-----------------|
 | MP4         | Moving Picture Experts Group | 2003             | ursprünglich Apple, mittlerweile auf vielen Endgeräten nutzbar | Ja              |
