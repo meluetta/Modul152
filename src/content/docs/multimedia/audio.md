@@ -19,4 +19,3 @@ OGG: OGG ist ein freies Containerformat, das verschiedene Audio- und Videocodecs
 AIFF: AIFF ist ein unkomprimiertes Audioformat, das von Apple entwickelt wurde. Es ähnelt dem WAV-Format und bietet verlustfreie Audioqualität. AIFF-Dateien werden häufig von Musikproduzenten und Tontechnikern verwendet, da sie eine exakte Kopie der Originalaufnahme darstellen.
 
 
-![image](https://github.com/meluetta/Modul152/assets/74251745/b30c4475-4f97-4706-8b8f-abd2dcd02cfb)
