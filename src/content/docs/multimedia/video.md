@@ -45,6 +45,7 @@ die gängigsten Codecs sind: H.264, MP4, AVCHD.
 
 Hat man das Ziel möglichst alle Browser und auch Betriebssysteme abzudecken ist hier wohl das Format MP4 am besten geeignet. Genauer gesagt der Codec H.264. 
 Er gilt in der Internet- und Medienwelt bereits als Industriestandard und wird von fast alles Browsern, Betriebssystemen und Playern unterstützt.
+
 Doch die Welt schläft nicht und vor allem nicht die Technologiewelt.
 Deswegen gibt es auch bereits Formate die zukunftsweisend sind und die nächsten Jahre immer mehr im Kommen sein werden. 
 Die Rede ist von neuen Dateiformaten, wie dem von Google entwickeltem WebM Format. 
