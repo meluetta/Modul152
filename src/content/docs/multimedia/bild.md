@@ -1,4 +1,4 @@
 ---
 title: "Bild"
-description: "hier beschreibung"
+description: "Auf dieser Seite finden Sie die besten Bildformate!"
 ---
