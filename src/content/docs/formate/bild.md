@@ -3,24 +3,27 @@ title: "Bild"
 description: "Auf dieser Seite finden Sie die besten Bildformate!"
 ---
 
-# Bildformate
-
-## JPEG (Joint Photographic Experts Group)
+## JPEG
+**Joint Photographic Experts Group** <br/>
 Geeignet für Fotos und komplexe Bilder mit vielen Farbverläufen.
 
-## PNG (Portable Network Graphics)
+## PNG
+**Portable Network Graphics** <br/>
 Geeignet für Grafiken mit transparenten Hintergründen oder für einfache Bilder mit wenigen Farben.
 
-## GIF (Graphics Interchange Format)
+## GIF
+**Graphics Interchange Format** <br/>
 Geeignet für einfache Animationen oder für Grafiken mit wenigen Farben.
 
-## SVG (Scalable Vector Graphics)
+## SVG
+**Scalable Vector Graphics** <br/>
 Geeignet für Vektorgrafiken, die sich ohne Qualitätsverlust skalieren lassen.
 
 ## PDF
 Ist nur für Vektorenbilder geeignet. Es ist ein komprimierbares Bildformat und es hat kaum welche Einschränkungen. 
 
-## HEIF (High Efficiency Image Format)
+## HEIF <br/>
+**High Efficiency Image Format**
 Ist ein modernes Bildformat, das von der Moving Picture Experts Group (MPEG) entwickelt wurde. Es wurde entwickelt, um eine verbesserte Komprimierung und Effizienz im Vergleich zu älteren Bildformaten wie JPEG zu bieten. Hier sind einige Merkmale und Vorteile des HEIF-Formats:
 -	Effiziente Komprimierung: HEIF verwendet fortschrittliche Komprimierungsalgorithmen wie High Efficiency Video Coding (HEVC) für Bilder. Dadurch können Bilder bei gleicher Qualität im Vergleich zu JPEG deutlich kleinere Dateigrößen aufweisen.
 
