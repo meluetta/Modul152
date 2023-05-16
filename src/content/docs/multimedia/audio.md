@@ -1,8 +1,7 @@
 ---
-title: "Audio"
+title: "Audioformate"
 description: "audioformate"
 ---
-Audioformate
 
 Audioformate sind spezielle Dateiformate Formate für das Speichern sowie auch übertragen von Audiospuren verwendet werden. Sie ermöglichen es, Töne in jeglicher Art elektronisch zu speichern, zu komprimieren und wiederzugeben. Es gibt eine Vielzahl von Audioformaten, die jeweils unterschiedliche Merkmale und Verwendungszwecke haben. Die wichtigsten und bekanntesten sind hier aufgelistet
 
