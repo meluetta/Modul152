@@ -42,6 +42,14 @@ WebP: WebP ist ein Bildformat, das von Google entwickelt wurde, um eine effizien
 
 -	Die Verwendung von WebP kann dazu beitragen, die Ladezeit von Webseiten zu verbessern, Bandbreite zu sparen und den visuellen Eindruck der Bilder beizubehalten. Es ist ein beliebtes Format für Webdesigner und Entwickler, die optimierte Bilder für das Web bereitstellen möchten.
 
+|      | Logo                            | Foto                               | Farbverlauf                       |
+|------|---------------------------------|------------------------------------|-----------------------------------|
+| JPG  | Dateigröße: 27 KB Qualität: 3/5 | Dateigröße: 126 KB Qualität: 5/5   | Dateigröße: 3 KB Qualität: 3/5    |
+| WebP | Dateigröße: 10 KB Qualität: 3/5 | Dateigröße: 88 KB Qualität: 4/5    | Dateigröße: 0,49 KB Qualität: 3/5 |
+| GIF  | Dateigröße: 11 KB Qualität: 4/5 | Dateigröße: 205 KB Qualität: 3/5   | Dateigröße: 33 KB Qualität: 4/5   |
+| PNG  | Dateigröße: 11 KB Qualität: 5/5 | Dateigröße: 181 KB Qualität: 5/5   | Dateigröße: 0,8 KB Qualität: 4/5  |
+| SVG  | Dateigröße: 7 KB Qualität: 5/5  | Dateigröße: 2.400 KB Qualität: 1/5 | Dateigröße: 0,4 KB Qualität: 5/5  |
+
 -------------------------------------------------------------------------------------------------------
 
  
