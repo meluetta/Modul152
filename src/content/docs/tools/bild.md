@@ -5,7 +5,7 @@ description: "Hier finden Sie die besten Software für die Bilderbearbeitung!"
 ## Adobe Photoshop
 Adobe Photoshop hat eine breite Palette an professionellen Werkzeugen und Funktionen.
 
-https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all&promoid=PYPVPZQK&mv=other
+[Download](https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all&promoid=PYPVPZQK&mv=other)
 
 
 ## GIMP
