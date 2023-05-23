@@ -3,7 +3,7 @@ title: "Software für den Videoschnitt"
 description: "Dies sind die besten Video Software Programme"
 ---
 ## Adobe Premiere Pro (für Profis) 
-👨‍💻 Betriebssysteme: Windows und Mac $
+👨‍💻 Betriebssysteme: Windows und Mac
 
 ✔️ Am besten geeignet für: Profis mit etwas Erfahrung in der Videobearbeitung
 
