@@ -54,3 +54,13 @@ Capture One ist eine professionelle Software für die RAW-Bildbearbeitung, die b
 Paint.NET ist eine kostenlose Bildbearbeitungssoftware mit einer einfachen Benutzeroberfläche und grundlegenden Bearbeitungswerkzeugen. Es eignet sich gut für einfache Aufgaben.
 
 [Download](https://www.getpaint.net/download.html)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+| **Merkmal**              | Adobe Photoshop | GIMP | Corel PaintShop Pro | Affinity Photo | Pixlr | Adobe Lightroom   | Capture One | Paint.NET |
+|--------------------------|-----------------|------|---------------------|----------------|-------|-------------------|-------------|-----------|
+| Professionelle Werkzeuge | x               | x    |                     | x              |       |                   |             |           |
+| Kostenlose Software      |                 | x    |                     |                | x     |                   |             | x         |
+| Benutzerfreundlichkeit   |                 |      | x                   |                |       |                   |             | x         |
+| RAW-Bildbearbeitung      |                 |      |                     |                |       |                   | x           |           |
