@@ -121,7 +121,7 @@ Eine einzigartige Funktion von HitFilm Express sind die umfangreichen Lernmateri
 
 ❌ Die Software stürzt gelegentlich ab, was den Arbeitsfluss unterbrechen kann.
 
-## CyberLink PowerDirector: 
+## CyberLink PowerDirector
 👨‍💻  Betriebssysteme: Windows 
 
 ✔️ Am besten geeignet für: Videobearbeiter, die nach einer funktionsreichen Software mit benutzerfreundlicher Oberfläche suchen 
@@ -147,7 +147,7 @@ Fortgeschrittene Videobearbeitungsfunktionen wie Mehrkamera-Bearbeitung, 360-Gra
 ❌ Lernkurve für fortgeschrittene Funktionen.
 
 
-## iMovie:
+## iMovie
 👨‍💻  Betriebssysteme: Mac und iOS
 
 ✔️ Am besten geeignet für: Anfänger und gelegentliche Videobearbeiter auf Mac und iOS-Geräten 
