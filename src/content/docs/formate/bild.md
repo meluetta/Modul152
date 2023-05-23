@@ -2,6 +2,8 @@
 title: "Bild"
 description: "Auf dieser Seite finden Sie die besten Bildformate!"
 ---
+## Weshalb Bildformate?
+Bildformate beziehungsweise Bilddateitypen geben die Dateiformate zur Speicherung von Bildern an. Für die jeweiligen Formate gibt es unterschiedliche Verwendungszwecke und jedes zeichnet sich durch andere Charakteristika in Farbtiefe, Größe der Datei und anderen Merkmalen aus.
 
 ## JPEG
 **Joint Photographic Experts Group** <br/>
