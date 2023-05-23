@@ -58,7 +58,7 @@ Paint.NET ist eine kostenlose Bildbearbeitungssoftware mit einer einfachen Benut
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-| **Merkmale**        | _Professionelle Werkzeuge_ | _Kostenlose Software_ | _Benutzerfreundlichkeit_ | _RAW-Bildbearbeitung_ |
+| **Merkmale**        | Professionelle Werkzeuge | Kostenlose Software | Benutzerfreundlichkeit | RAW-Bildbearbeitung |
 |---------------------|----------------------------|-----------------------|--------------------------|-----------------------|
 | Adobe Photoshop     | x                          |                       |                          |                       |
 | GIMP                | x                          | x                     |                          |                       |
