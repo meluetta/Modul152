@@ -58,9 +58,13 @@ Paint.NET ist eine kostenlose Bildbearbeitungssoftware mit einer einfachen Benut
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-| **Merkmal**              | Adobe Photoshop | GIMP | Corel PaintShop Pro | Affinity Photo | Pixlr | Adobe Lightroom   | Capture One | Paint.NET |
-|--------------------------|-----------------|------|---------------------|----------------|-------|-------------------|-------------|-----------|
-| Professionelle Werkzeuge | x               | x    |                     | x              |       |                   |             |           |
-| Kostenlose Software      |                 | x    |                     |                | x     |                   |             | x         |
-| Benutzerfreundlichkeit   |                 |      | x                   |                |       |                   |             | x         |
-| RAW-Bildbearbeitung      |                 |      |                     |                |       |                   | x           |           |
+| **Merkmale**        | _Professionelle Werkzeuge_ | _Kostenlose Software_ | _Benutzerfreundlichkeit_ | _RAW-Bildbearbeitung_ |
+|---------------------|----------------------------|-----------------------|--------------------------|-----------------------|
+| Adobe Photoshop     | x                          |                       |                          |                       |
+| GIMP                | x                          | x                     |                          |                       |
+| Corel PaintShop Pro |                            |                       | x                        |                       |
+| Affinity Photo      | x                          |                       |                          |                       |
+| Pixlr               |                            | x                     |                          |                       |
+| Adobe Lightroom     |                            |                       |                          |                       |
+| Capture One         |                            |                       |                          | x                     |
+| Paint.NET           |                            | x                     | x                        |                       |
