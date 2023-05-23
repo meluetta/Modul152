@@ -46,5 +46,8 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Bild', link: 'Modul152/tools/bild' },
 			{ text: 'Audio', link: 'Modul152/tools/audio' },
 		],
+		'Weiteres': [
+			{ text: 'Musik', link: 'Modul152/more/music' }
+		],
 	},
 };
