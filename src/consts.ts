@@ -45,9 +45,17 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Video', link: 'Modul152/tools/video' },
 			{ text: 'Bild', link: 'Modul152/tools/bild' },
 			{ text: 'Audio', link: 'Modul152/tools/audio' },
-		],
-		'Weiteres': [
 			{ text: 'Musik', link: 'Modul152/more/music' }
 		],
+		'Lernvideos': [
+			{ text: 'Fäh', link: 'Modul152/video/fah' },
+			{ text: 'Preter', link: 'Modul152/video/preter' },
+			{ text: 'Hatzikiriakos', link: 'Modul152/video/hatzikiriakos' },
+			{ text: 'Rascher', link: 'Modul152/video/rascher' },
+			{ text: 'Brühwiler', link: 'Modul152/video/bruhwiler' },
+		],
+		'Team': [
+			{ text: 'Team', link: 'Modul152/team/team' },
+		]
 	},
 };
