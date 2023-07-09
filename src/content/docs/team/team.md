@@ -3,9 +3,9 @@ title: "Team 4"
 description: ""
 ---
 
-![Henrik Fäh](fah.png)
-![Henrik Fäh](bruhwiler.png)
-![Henrik Fäh](preter.png)
-![Henrik Fäh](rascher.png)
-![Henrik Fäh](hatzikiriakos.png)
+![Henrik Fäh](/Modul152/fah.png)
+![Henrik Fäh](/Modul152/bruhwiler.png)
+![Henrik Fäh](/Modul152/preter.png)
+![Henrik Fäh](/Modul152/rascher.png)
+![Henrik Fäh](/Modul152/hatzikiriakos.png)
 
