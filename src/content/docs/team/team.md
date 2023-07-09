@@ -5,25 +5,25 @@ description: ""
 
 ### Nils Preter
 
-![Nils Preter](/Modul152/preter.png)
+![Nils Preter](/Modul152/preter/portrait.png)
 
 
 ### Henrik Fäh
 
-![Henrik Fäh](/Modul152/fah.png)
+![Henrik Fäh](/Modul152/fah/portrait.png)
 
 
 ### Flurin Brühwiler
 
-![Flurin Brühwiler](/Modul152/bruhwiler.png)
+![Flurin Brühwiler](/Modul152/bruhwiler/portrait.png)
 
 
 ### Mia Rascher
 
-![Mia Rascher](/Modul152/rascher.png)
+![Mia Rascher](/Modul152/rascher/portrait.png)
 
 
 ### Ilias Hatzikiriakos
 
-![Ilias Hatzikiriakos](/Modul152/hatzikiriakos.png)
+![Ilias Hatzikiriakos](/Modul152/hatzikiriakos/portrait.png)
 
