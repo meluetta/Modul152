@@ -4,8 +4,8 @@ description: ""
 ---
 
 ![Henrik Fäh](/Modul152/fah.png)
-![Henrik Fäh](/Modul152/bruhwiler.png)
-![Henrik Fäh](/Modul152/preter.png)
-![Henrik Fäh](/Modul152/rascher.png)
-![Henrik Fäh](/Modul152/hatzikiriakos.png)
+![Flurin Brühwiler](/Modul152/bruhwiler.png)
+![Nils Preter](/Modul152/preter.png)
+![Mia Rascher](/Modul152/rascher.png)
+![Ilias Hatzikiriakos](/Modul152/hatzikiriakos.png)
 
