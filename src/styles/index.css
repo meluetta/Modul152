@@ -19,6 +19,10 @@
 	}
 }
 
+img{
+	width: 20rem;
+}
+
 body {
 	display: flex;
 	flex-direction: column;
