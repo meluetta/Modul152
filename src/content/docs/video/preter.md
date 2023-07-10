@@ -18,4 +18,3 @@ Ich habe bei jedem Workshop teilgenommen und Herr Huber’s Workshops dementspre
 ![Nils Preter](/Modul152/preter/bts1.png)
 ![Nils Preter](/Modul152/preter/bts2.png)
 ![Nils Preter](/Modul152/preter/bts3.png)
-![Nils Preter](/Modul152/preter/bts4.png)
