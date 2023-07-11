@@ -19,7 +19,7 @@ das tool [Motion Canvas](https://motioncanvas.io/) verwendet.
 Es erlaubt einem, Animationen mit Code zu erstellen. Leider bin ich nicht wirklich dazu gekommen das ganze auch zu animieren, 
 sondern habe nur die Visualisierung des Algorithmus in Motion Canvas direkt gemacht. 
 Ich habe zum ersten Mal Motion Canvas ausprobiert und musste es darum zuerst lernen. 
-Da es sich einfach um Code handelt, ist das Projekt auch auf Github vers ionisiert https://github.com/FlurinBruehwiler/M152
+Da es sich einfach um Code handelt, ist das Projekt auch auf Github versionisiert https://github.com/FlurinBruehwiler/M152
 
 <img src="/Modul152/bruhwiler/bts3.png" alt="." style="width:100%;"/>
 <img src="/Modul152/bruhwiler/bts2.png" alt="." style="width:100%;"/>
