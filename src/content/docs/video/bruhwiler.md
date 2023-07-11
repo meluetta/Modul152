@@ -5,14 +5,15 @@ description: "Lernvideo von Flurin Brühwiler"
 <video width="100%" controls>
   <source src="/Modul152/bruhwiler/lernvideo.mp4" type="video/mp4">
 </video>
+Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
-### Konzeption
+## Konzeption
 In der Konzeptionsphase habe ich mir im Detail Gedanken darüber gemacht, wie ich mein Video gestalten möchte.
 Ich wollte dem Video eine möglichst gute struktur geben um das doch relativ komplexe Thema einfach zu erklären
 
 <img src="/Modul152/bruhwiler/bts4.png" alt="." style="width:100%;"/>
 
-### Umsetzung
+## Umsetzung
 Ich habe für dieses Lernvideo den Algorithmus selber auch umgesetzt. Ich habe dafür 
 das tool [Motion Canvas](https://motioncanvas.io/) verwendet.
 Es erlaubt einem, Animationen mit Code zu erstellen. Leider bin ich nicht wirklich dazu gekommen das ganze auch zu animieren, 
