@@ -1,20 +1,24 @@
 ---
 import AvatarList from './AvatarList.astro';
 type Props = {
-	path: string;
+    path: string;
 };
-const { path } = Astro.props;
+const {path} = Astro.props;
 ---
 
 <footer>
-    Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+    <p>
+        Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+    </p>
     <a href="/Modul152/imprint">Impressum</a>
 </footer>
 
 <style>
-	footer {
-		margin-top: auto;
-		padding: 2rem;
-		border-top: 3px solid var(--theme-divider);
-	}
+    footer {
+        margin-top: auto;
+        padding: 2rem;
+        border-top: 3px solid var(--theme-divider);
+        display: flex;
+        justify-content: space-between;
+    }
 </style>
