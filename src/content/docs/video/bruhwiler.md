@@ -12,7 +12,7 @@ Ich wollte dem Video eine möglichst gute struktur geben um das doch relativ kom
 
 <img src="/Modul152/bruhwiler/bts4.png" alt="." style="width:100%;"/>
 
-## Umsetzung
+### Umsetzung
 Ich habe für dieses Lernvideo den Algorithmus selber auch umgesetzt. Ich habe dafür 
 das tool [Motion Canvas](https://motioncanvas.io/) verwendet.
 Es erlaubt einem, Animationen mit Code zu erstellen. Leider bin ich nicht wirklich dazu gekommen das ganze auch zu animieren, 
@@ -27,4 +27,3 @@ Als Schnittprogramm habe ich [Davinci Resolve](https://www.blackmagicdesign.com/
 Auch dieses musste ich zuerst nochmal lernen, da ich es schon lange nicht mehr verwendet habe.
 
 <img src="/Modul152/bruhwiler/bts1.png" alt="." style="width:100%;"/>
-
